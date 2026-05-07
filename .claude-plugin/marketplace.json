@@ -1,0 +1,14 @@
+{
+  "name": "finece",
+  "owner": {
+    "name": "Finece"
+  },
+  "description": "Global equity research plugins for Claude Cowork - multi-market analyst toolkit",
+  "plugins": [
+    {
+      "name": "global-equity-research",
+      "source": "./plugins/global-equity-research",
+      "description": "Multi-market equity research: earnings analysis, initiating coverage, morning notes, and thesis tracking across US, EU/UK, Japan, Greater China, and APAC."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "global-equity-research",
+  "version": "0.1.0",
+  "description": "Multi-market equity research toolkit for institutional analysts. Covers US, EU/UK, Japan, Greater China (TW/HK/CN), and APAC markets with market-aware filings, accounting standards, fiscal calendars, and disclosure rules.",
+  "author": {
+    "name": "Finece"
+  },
+  "homepage": "",
+  "keywords": ["equity-research", "global-markets", "earnings", "valuation", "institutional"]
+}

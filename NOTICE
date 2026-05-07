@@ -1,0 +1,22 @@
+Finece - Global Equity Research Plugin
+Copyright (c) 2026 Finece contributors
+
+This product includes software derived from
+"Claude for Financial Services" by Anthropic, PBC
+(https://github.com/anthropics/financial-services), licensed
+under the Apache License, Version 2.0.
+
+Modifications:
+- Forked the `equity-research` vertical plugin as `global-equity-research`.
+- Added `market-context` skill: ticker-to-market detection, regional
+  filing sources (SEC EDGAR, TWSE MOPS, HKEX, EDINET, Companies House,
+  ESMA, CNINFO), accounting-standard mapping (US GAAP / IFRS / J-GAAP /
+  China GAAP), fiscal-calendar rules, and disclosure-regulation
+  references.
+- Added `cross-listing-analysis` skill for ADR / H-share / A+H / dual-
+  primary listings.
+- Rewrote `earnings-analysis` and command prompts to be market-aware
+  rather than US-only.
+- Added multi-currency and FX-impact handling.
+
+The original NOTICE/LICENSE files are preserved at LICENSE.

@@ -1,0 +1,4 @@
+{
+  "_comment": "MCP server placeholder. Add commercial data connectors here (Refinitiv, FactSet, S&P CapIQ, Wind, TEJ, QUICK, Bloomberg). For free/public sources, use built-in WebFetch/WebSearch tools targeting the primary regulatory URLs declared in skills/market-context/references/markets.md.",
+  "mcpServers": {}
+}
